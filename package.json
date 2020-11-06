@@ -1,0 +1,19 @@
+{
+  "name": "cloudflare_2020",
+  "version": "1.0.0",
+  "description": "An example application as per Cloudflare's new grad application project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markrepedersen/cloudflare-2020-general-engineering-assignment.git"
+  },
+  "author": "Mark Pedersen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markrepedersen/cloudflare-2020-general-engineering-assignment/issues"
+  },
+  "homepage": "https://github.com/markrepedersen/cloudflare-2020-general-engineering-assignment#readme"
+}
